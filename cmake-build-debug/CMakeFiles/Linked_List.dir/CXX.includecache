@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/thepu/Documents/Proyectos/C++/Linked_List/List.h
+iostream
+-
+sstream
+-
+
+C:/Users/thepu/Documents/Proyectos/C++/Linked_List/main.cpp
+List.h
+C:/Users/thepu/Documents/Proyectos/C++/Linked_List/List.h
+
